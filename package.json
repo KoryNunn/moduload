@@ -1,0 +1,14 @@
+{
+  "name": "moduload",
+  "version": "0.0.0",
+  "description": "Loads an npm module by name from the npm registry",
+  "main": "moduload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "tape": "~2.0.0"
+  }
+}
