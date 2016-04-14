@@ -10,5 +10,17 @@
   "license": "BSD",
   "devDependencies": {
     "tape": "~2.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/moduload.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KoryNunn/moduload/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/moduload#readme"
 }
