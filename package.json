@@ -1,6 +1,6 @@
 {
   "name": "moduload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Loads an npm module by name from the npm registry",
   "main": "moduload.js",
   "scripts": {
